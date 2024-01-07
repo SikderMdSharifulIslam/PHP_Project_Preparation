@@ -30,4 +30,14 @@
         echo " $value <br>"; 
     }
 
+    /*
+    foreach(array as index => value)
+    {
+    }
+    This will work because we know array index stores before the value
+    array(3) = [[0] 99, [1] 98, [2] 93]
+    Like this way.
+
+    */
+
 ?>
